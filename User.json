@@ -1,8 +1,6 @@
 {
   "status": "on",
-  "data": {
-    "klikgojek": {
-      "sewa": [
+  "data": [
         {
           "lisensi": "659e1e33c177119d8385d1169ac444e6419e82a3",
           "aktifdata": "15/09/2023",
