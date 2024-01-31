@@ -1,23 +1,15 @@
 {
   "status": "on",
   "data": [
-        {
-          "lisensi": "659e1e33c177119d8385d1169ac444e6419e82a3",
-          "aktifdata": "15/09/2023",
-          "expdata": "09/02/2024"
-        },
-        {
-          "lisensi": "c3e7446efbb02af9b1f59c0f02cf6a8a4d1c5e35",
-          "aktifdata": "15/09/2023",
-          "expdata": "09/02/2024"
-        },
-        {
-          "lisensi": "c3e7446efbb02af9b1f59c0f02cf6a8a4d1c5e35",
-          "aktifdata": "15/09/2023",
-          "expdata": "09/02/2024"
-        }
-      ]
+    {
+      "lisensi": "659e1e33c177119d8385d1169ac444e6419e82a3",
+      "aktifdata": "15/09/2023",
+      "expdata": "09/02/2024"
+    },
+    {
+      "lisensi": "c3e7446efbb02af9b1f59c0f02cf6a8a4d1c5e35",
+      "aktifdata": "15/09/2023",
+      "expdata": "09/02/2024"
     }
-  }
+  ]
 }
-
